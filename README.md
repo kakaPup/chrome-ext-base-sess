@@ -1,4 +1,4 @@
-# vue3-chrome-sess
+# vue3-chrome5
 
 ## Project setup
 ```
@@ -13,6 +13,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
 ```
 
 ### Customize configuration
